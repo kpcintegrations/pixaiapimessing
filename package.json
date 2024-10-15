@@ -1,0 +1,28 @@
+{
+  "name": "pixaiapimessing",
+  "version": "1.0.0",
+  "description": "testing api",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kpcintegrations/pixaiapimessing.git"
+  },
+  "keywords": [
+    "anime",
+    "art",
+    "pixai",
+    "api"
+  ],
+  "author": "Ashley lilunbp@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kpcintegrations/pixaiapimessing/issues"
+  },
+  "homepage": "https://github.com/kpcintegrations/pixaiapimessing#readme",
+  "dependencies": {
+    "@pixai-art/client": "^0.3.0"
+  }
+}
